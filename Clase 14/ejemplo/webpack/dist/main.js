@@ -1,0 +1,1 @@
+(()=>{const o=process.argv[2],s=process.argv[3];console.log(o+s)})(),(()=>{const o=process.argv[2],s=process.argv[3];console.log(o-s)})(),(()=>{const o=process.argv[2],s=process.argv[3];console.log(o*s)})();

@@ -1,0 +1,14 @@
+{
+    "nombre": "Alex",
+    "edad": 27,
+    "cursos": [
+        {
+            "nombre":  "backend",
+            "codigo": "32064"
+        },
+        {
+            "nombre":  "frontend",
+            "codigo": "38967"  
+        }
+    ]
+}
